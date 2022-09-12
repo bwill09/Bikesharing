@@ -57,7 +57,7 @@ In this visualization the graph exhibits the number of bikes trips by gender for
 Bikes Repairs 
 <img width="994" alt="Bike Repairs" src="https://user-images.githubusercontent.com/106555873/189559264-00b6fbde-b61f-4c5c-83f3-203b9fa4d25f.png">
 
-In this visualization the graph exhibits due time for bike repairs 
+In this visualization the graph exhibits due time for bike repairs
 
 TABLEAU PUBLIC URL:
 
