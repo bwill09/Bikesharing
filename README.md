@@ -10,9 +10,9 @@ Display the length of time bikes get checked out for all riders and genders, sho
 
 ### Resources 
 
-•	Source: NYC_CitiBike_Challenge_starter_code.ipynb, NYC_Citibike_Challenge.ipynb and 201908-citibike-tripdata.csv
-•	Data Tools: Jupyter Notebook, CSV, Tableau and IO (Web Server)
-•	Software: Jupyter Notebook and Visual Studio Code 1.67.2 
+*	Source: NYC_CitiBike_Challenge_starter_code.ipynb, NYC_Citibike_Challenge.ipynb and 201908-citibike-tripdata.csv
+*	Data Tools: Jupyter Notebook, CSV, Tableau and IO (Web Server)
+*	Software: Jupyter Notebook and Visual Studio Code 1.67.2 
 * (Tableau Link, Last Line)
 
 ### Deliverable 1:
