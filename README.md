@@ -12,7 +12,8 @@ Display the length of time bikes get checked out for all riders and genders, sho
 
 •	Source: NYC_CitiBike_Challenge_starter_code.ipynb, NYC_Citibike_Challenge.ipynb and 201908-citibike-tripdata.csv
 •	Data Tools: Jupyter Notebook, CSV, Tableau and IO (Web Server)
-•	Software: Jupyter Notebook and Visual Studio Code 1.67.2
+•	Software: Jupyter Notebook and Visual Studio Code 1.67.2 
+* (Tableau Link, Last Line)
 
 ### Deliverable 1:
 
@@ -40,7 +41,6 @@ In the visualization the graph exhibits the length of time that bikes are checke
 Trips by Weekday for Each Hour 
 <img width="1005" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/106555873/189559155-476b1441-27d9-4d87-a9c7-a8c3f189ecd3.png">
 
-
 Trips by Weekday for Each Hour 
 In this visualization the graph exhibits the number of bikes trips by weekday for each hour of the day as a heatmap
 
@@ -57,9 +57,7 @@ In this visualization the graph exhibits the number of bikes trips by gender for
 Bikes Repairs 
 <img width="994" alt="Bike Repairs" src="https://user-images.githubusercontent.com/106555873/189559264-00b6fbde-b61f-4c5c-83f3-203b9fa4d25f.png">
 
-
 In this visualization the graph exhibits due time for bike repairs 
-
 
 TABLEAU PUBLIC URL:
 
