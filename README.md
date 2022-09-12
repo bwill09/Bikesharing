@@ -63,5 +63,5 @@ In this visualization the graph exhibits due time for bike repairs
 
 TABLEAU PUBLIC URL:
 
-[Final Tableau Story Analysis](https://public.tableau.com/app/profile/alford1756/viz/Book1_16626392967540/Customers?publish=yes) 
+[Final Tableau Story Analysis Link](https://public.tableau.com/app/profile/alford1756/viz/Book1_16626392967540/Customers?publish=yes) 
 
